@@ -32,7 +32,7 @@ include("connect2.php");
         
         
         <p class="logout">
-            <a href="logout.php">Logout</a>
+            <a href="logout2.php">Logout</a>
         </p>
 
     </div>
